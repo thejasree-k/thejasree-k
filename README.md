@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thejasree-k
 - 👀 I’m interested in learning JAVA, PYTHON & BIG DATA RELATED STUFF
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on BIG DATA TECHNOLOGIES
 - 📫 How to reach me ...  thejasreereddy552@gmail.com
 
